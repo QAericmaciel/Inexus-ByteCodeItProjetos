@@ -11,7 +11,7 @@ Funcionalidade: Testando Função de Login
     Quando digita <usuario> "standard_user" e <senha> "secret_sauce" correto
     E clicar no botao de login
     Entao login será valido com <sucesso>
-
+   
     Exemplos:
 
      |  site                        |     usuario                          |  senha                 |  sucesso             |
