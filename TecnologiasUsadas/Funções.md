@@ -1,9 +1,16 @@
 
 ### TECNOLOGIAS USADAS
 
-Linguagem Java | Cucumber | Selenium WebDriver | Junit | Linguagem Gherkin | BDD | Maven Apache | Xml |
+ + Linguagem Java
+ + Cucumber 
+ + Selenium WebDriver 
+ + Junit 
+ + Linguagem Gherkin 
+ + BDD
+ + Maven Apache 
+ + Xml
 
-### VERÇÕES DE CADA TECNOLOGIA USADAS
+### VERSÕES DE CADA TECNOLOGIA USADAS
 
 + Linguagem: Java 11
 + Cucumber: 6.9.1
