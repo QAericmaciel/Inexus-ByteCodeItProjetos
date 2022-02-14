@@ -43,3 +43,4 @@ Funcionalidade: Testando Função de Login
    | "35489434"                |  "35489434"        | "Epic sadface: Username is required"                                        |
    | "prlem_user"              |  "seet_sace"       | "Epic sadface: Username is required"                                        |
    | "standard_user954"        |  "secret_sauce615" | "Epic sadface: Username and password do not match any user in this service" |
+   
