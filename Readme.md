@@ -42,5 +42,5 @@ Este projeto consiste em fazer um teste funcional na tela de login no site: "htt
 
 # Linguagem:
 
-* Java 16.0.1
+* Java 11
 * Gherkin
