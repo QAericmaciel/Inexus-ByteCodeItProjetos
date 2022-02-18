@@ -28,8 +28,6 @@ Este projeto consiste em fazer um teste funcional na tela de login no site: "htt
 4. Acesse o método *System.setProperty* na função de configuração e altere-o para o diretório do driver
 5. Pressione Shift + F10 para executar o teste.
 
- | Forma muito simples para quem não entende programação!! |
-
 # Ferramentas:
 
 * Apache Maven (Package manager)
