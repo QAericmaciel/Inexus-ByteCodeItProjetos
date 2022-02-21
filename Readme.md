@@ -7,14 +7,16 @@ Este projeto consiste em fazer um teste funcional na tela de login no site: "htt
 
 ## FUNCIONALIDADE DA TELA DE LOGIN 
 
- | Procedimento para que você entenda abaixo |
+
+ # | Procedimento para que você entenda abaixo |
 
  Dado que o usuario entra no <site> "https://www.saucedemo.com/" na tela de login
     Quando digita <usuario> "standard_user" e <senha> "secret_sauce" correto
     E clicar no botao de login
     Entao login será valido com <sucesso>
 
-| Forma muito simples para quem não entende programação!! |
+ # | Forma muito simples para quem não entende programação!! |
+
 
 # Instruções:
 
