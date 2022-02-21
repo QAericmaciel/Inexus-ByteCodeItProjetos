@@ -1,11 +1,7 @@
 
-# Projeto ByteCode-IT-Projetos
-
-# Testes de automação da página de login do site saucedemo.com
-
 # Esse projeto foi feito para fins de conhecimentos!!
 
-## O QUE ESSE PROJETO FAZ?
+# O QUE ESSE PROJETO FAZ?
 
 Este projeto consiste em fazer um teste funcional na tela de login no site: "https://www.saucedemo.com/" E-commerce com objetivo principal em saber se está funcionando na maneira correta. Para quer o usuario não tenha uma má experiencia!!
 
